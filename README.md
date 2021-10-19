@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moyers123
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript/CSS/HTML/React... web design! 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
